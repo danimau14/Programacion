@@ -1,0 +1,15 @@
+D:\OneDrive\Desktop\ING. SISTEMAS DANIEL MAURICIO QUINTERO\PRACTICAS\C#\Control de Vehículos\obj\Debug\net10.0\Control de Vehículos.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Desktop\ING. SISTEMAS DANIEL MAURICIO QUINTERO\PRACTICAS\C#\Control de Vehículos\obj\Debug\net10.0\Control de Vehículos.AssemblyInfoInputs.cache
+D:\OneDrive\Desktop\ING. SISTEMAS DANIEL MAURICIO QUINTERO\PRACTICAS\C#\Control de Vehículos\obj\Debug\net10.0\Control de Vehículos.AssemblyInfo.cs
+D:\OneDrive\Desktop\ING. SISTEMAS DANIEL MAURICIO QUINTERO\PRACTICAS\C#\Control de Vehículos\obj\Debug\net10.0\Control de Vehículos.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\ING. SISTEMAS DANIEL MAURICIO QUINTERO\PRACTICAS\C#\Control de Vehículos\bin\Debug\net10.0\Control de Vehículos.exe
+D:\OneDrive\Desktop\ING. SISTEMAS DANIEL MAURICIO QUINTERO\PRACTICAS\C#\Control de Vehículos\bin\Debug\net10.0\Control de Vehículos.deps.json
+D:\OneDrive\Desktop\ING. SISTEMAS DANIEL MAURICIO QUINTERO\PRACTICAS\C#\Control de Vehículos\bin\Debug\net10.0\Control de Vehículos.runtimeconfig.json
+D:\OneDrive\Desktop\ING. SISTEMAS DANIEL MAURICIO QUINTERO\PRACTICAS\C#\Control de Vehículos\bin\Debug\net10.0\Control de Vehículos.dll
+D:\OneDrive\Desktop\ING. SISTEMAS DANIEL MAURICIO QUINTERO\PRACTICAS\C#\Control de Vehículos\bin\Debug\net10.0\Control de Vehículos.pdb
+D:\OneDrive\Desktop\ING. SISTEMAS DANIEL MAURICIO QUINTERO\PRACTICAS\C#\Control de Vehículos\obj\Debug\net10.0\Control de Vehículos.dll
+D:\OneDrive\Desktop\ING. SISTEMAS DANIEL MAURICIO QUINTERO\PRACTICAS\C#\Control de Vehículos\obj\Debug\net10.0\refint\Control de Vehículos.dll
+D:\OneDrive\Desktop\ING. SISTEMAS DANIEL MAURICIO QUINTERO\PRACTICAS\C#\Control de Vehículos\obj\Debug\net10.0\Control de Vehículos.pdb
+D:\OneDrive\Desktop\ING. SISTEMAS DANIEL MAURICIO QUINTERO\PRACTICAS\C#\Control de Vehículos\obj\Debug\net10.0\Control de Vehículos.genruntimeconfig.cache
+D:\OneDrive\Desktop\ING. SISTEMAS DANIEL MAURICIO QUINTERO\PRACTICAS\C#\Control de Vehículos\obj\Debug\net10.0\ref\Control de Vehículos.dll
+D:\OneDrive\Desktop\ING. SISTEMAS DANIEL MAURICIO QUINTERO\PRACTICAS\C#\Control de Vehículos\obj\Debug\net10.0\Control .A52D1077.Up2Date

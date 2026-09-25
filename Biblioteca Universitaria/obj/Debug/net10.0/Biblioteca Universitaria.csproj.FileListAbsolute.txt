@@ -1,0 +1,15 @@
+D:\OneDrive\Desktop\ING. SISTEMAS DANIEL MAURICIO QUINTERO\PRACTICAS\C#\Biblioteca Universitaria\bin\Debug\net10.0\Biblioteca Universitaria.exe
+D:\OneDrive\Desktop\ING. SISTEMAS DANIEL MAURICIO QUINTERO\PRACTICAS\C#\Biblioteca Universitaria\bin\Debug\net10.0\Biblioteca Universitaria.deps.json
+D:\OneDrive\Desktop\ING. SISTEMAS DANIEL MAURICIO QUINTERO\PRACTICAS\C#\Biblioteca Universitaria\bin\Debug\net10.0\Biblioteca Universitaria.runtimeconfig.json
+D:\OneDrive\Desktop\ING. SISTEMAS DANIEL MAURICIO QUINTERO\PRACTICAS\C#\Biblioteca Universitaria\bin\Debug\net10.0\Biblioteca Universitaria.dll
+D:\OneDrive\Desktop\ING. SISTEMAS DANIEL MAURICIO QUINTERO\PRACTICAS\C#\Biblioteca Universitaria\bin\Debug\net10.0\Biblioteca Universitaria.pdb
+D:\OneDrive\Desktop\ING. SISTEMAS DANIEL MAURICIO QUINTERO\PRACTICAS\C#\Biblioteca Universitaria\obj\Debug\net10.0\Biblioteca Universitaria.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Desktop\ING. SISTEMAS DANIEL MAURICIO QUINTERO\PRACTICAS\C#\Biblioteca Universitaria\obj\Debug\net10.0\Biblioteca Universitaria.AssemblyInfoInputs.cache
+D:\OneDrive\Desktop\ING. SISTEMAS DANIEL MAURICIO QUINTERO\PRACTICAS\C#\Biblioteca Universitaria\obj\Debug\net10.0\Biblioteca Universitaria.AssemblyInfo.cs
+D:\OneDrive\Desktop\ING. SISTEMAS DANIEL MAURICIO QUINTERO\PRACTICAS\C#\Biblioteca Universitaria\obj\Debug\net10.0\Biblioteca Universitaria.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\ING. SISTEMAS DANIEL MAURICIO QUINTERO\PRACTICAS\C#\Biblioteca Universitaria\obj\Debug\net10.0\Biblioteca Universitaria.dll
+D:\OneDrive\Desktop\ING. SISTEMAS DANIEL MAURICIO QUINTERO\PRACTICAS\C#\Biblioteca Universitaria\obj\Debug\net10.0\refint\Biblioteca Universitaria.dll
+D:\OneDrive\Desktop\ING. SISTEMAS DANIEL MAURICIO QUINTERO\PRACTICAS\C#\Biblioteca Universitaria\obj\Debug\net10.0\Biblioteca Universitaria.pdb
+D:\OneDrive\Desktop\ING. SISTEMAS DANIEL MAURICIO QUINTERO\PRACTICAS\C#\Biblioteca Universitaria\obj\Debug\net10.0\Biblioteca Universitaria.genruntimeconfig.cache
+D:\OneDrive\Desktop\ING. SISTEMAS DANIEL MAURICIO QUINTERO\PRACTICAS\C#\Biblioteca Universitaria\obj\Debug\net10.0\ref\Biblioteca Universitaria.dll
+D:\OneDrive\Desktop\ING. SISTEMAS DANIEL MAURICIO QUINTERO\PRACTICAS\C#\Biblioteca Universitaria\obj\Debug\net10.0\Bibliote.D32458E2.Up2Date
